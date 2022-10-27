@@ -1,0 +1,22 @@
+.mount{
+  background-color: blue;
+  width: 20rem;
+  height: 15rem;
+  margin-left: 36rem;
+  border-radius: 2rem;
+}
+
+h1{
+  text-align: center;
+  padding-top: 5px;
+  color: #fff;
+}
+
+button{
+  margin-left: 2rem;
+  width: 7rem;
+  height: 20%;
+  margin-top: 16px;
+  font-size: 1.2rem;
+
+}
